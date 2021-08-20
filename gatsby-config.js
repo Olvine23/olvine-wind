@@ -4,6 +4,7 @@ module.exports = {
     title: "george-olvine",
   },
   plugins: [
+    "gatsby-plugin-postcss",
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
     "gatsby-transformer-remark",
