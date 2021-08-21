@@ -8,7 +8,7 @@ const Home = () => {
     <p class = "decoration-clone bg-gradient-to-b from-yellow-400 to-red-500 p-9 md:decoration-slice ...">popo</p>
     <img  src = {logo} class = " h-60 w-80 float-right p-9 ..."></img>
     <h1 class = "p-9 text-5xl font-bold font-body">Hello Olvine</h1>
-    <p class = "p-5 font-body text-xl">
+    <p class = "p-5 font-body text-xl tracking-tight md:tracking-wide">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.  <br></br>Maecenas efficitur ligula aliquam nibh sagittis, ac vehicula nunc dapibus. Quisque faucibus sapien augue, a hendrerit erat dictum in. Suspendisse vestibulum erat ut magna bibendum consequat. Nulla lorem massa, mollis ut felis sed, auctor vestibulum eros. Nam semper a felis sed eleifend. Nullam orci libero, varius in ullamcorper ac, feugiat ac massa. Suspendisse consequat et dui nec condimentum. Quisque ut lacus augue. Nunc eget gravida diam. Quisque dapibus ex vitae rutrum gravida. Nulla lobortis lacinia felis, ultricies vehicula elit mattis sit amet. Phasellus id ipsum eget ex tincidunt convallis. Praesent libero mauris, interdum eget dignissim ut, pharetra a tellus. Aenean nec eleifend libero. Mauris a blandit urna. Maecenas consectetur ultricies felis non gravida.
 
 Sed quis ex eu nisi semper congue at id ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis facilisis efficitur lorem ut dignissim. Donec bibendum erat sit amet lectus rutrum, sit amet ultrices orci blandit. Nam ultrices semper neque sit amet ultricies. Quisque at sapien ac tellus iaculis rutrum sed id lectus. Phasellus nec erat pharetra, elementum sapien eget, ultricies ante. Praesent dapibus eu lectus sed porta. Praesent quis hendrerit velit.
