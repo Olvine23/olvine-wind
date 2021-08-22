@@ -2,6 +2,7 @@ import * as React from "react"
 
 import { StaticImage  } from "gatsby-plugin-image";
 import logo from "../images/OK.jpg"
+import olik from "../images/olik.jpg"
 const Home = () => {
   return (
     <div class = " container mx-auto bg-gray-200">
@@ -73,7 +74,7 @@ Generated 5 paragraphs, 442 words, 2983 bytes of Lorem Ipsum
   </div>
 </div>
 <div class="max-w-sm rounded overflow-hidden shadow-lg flex-1 mx-3">
-  <img class="w-full" src={logo} alt="Sunset in the mountains"></img>
+  <img class="w-full" src={olik} alt="Sunset in the mountains"></img>
   <div class="px-6 py-4">
     <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
     <p class="text-gray-700 text-base">
